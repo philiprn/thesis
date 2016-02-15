@@ -1,4 +1,4 @@
 # this is to learn git
-a = 5
 s = 'git'
-print 'Hello', s, a
+a,b = 3,5
+print 'Hello', s, a + b
