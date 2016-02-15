@@ -1,1 +1,2 @@
-print 'Hello git'
+s = 'git'
+print 'Hello', s
